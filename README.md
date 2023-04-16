@@ -1,2 +1,2 @@
-# Fergb01.github.io
+# Google Clone
 Google clone using HTML + CSS
