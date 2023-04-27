@@ -1,2 +1,2 @@
 # Google Clone
-Google clone using HTML + CSS
+This project was created in the tecnolochicas PRO bootcamp as an HTML and CSS practice. 
