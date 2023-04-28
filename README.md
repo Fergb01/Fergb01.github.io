@@ -7,3 +7,5 @@ The goal was to practice using these tools to recreate the primary components of
 
 ## Result
 You can see the result here [GoogleClone](https://fergb01.github.io/Google-Clone/) 💫
+
+![image](https://user-images.githubusercontent.com/53310339/235028989-a845d394-ef64-4654-a4dd-7e69246ada64.png)
